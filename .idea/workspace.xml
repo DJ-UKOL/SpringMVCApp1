@@ -9,13 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80e68a58-7f2e-47fd-853c-182a082c7835" name="Changes" comment="Ex_15, Spring MVC">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/config/SpringConfig.java" afterDir="false" />
+    <list default="true" id="80e68a58-7f2e-47fd-853c-182a082c7835" name="Changes" comment="Ex_16, Config with java code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/FirstController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/SecondController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContextMVC.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HelloController.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -166,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665136724596</updated>
       <workItem from="1665136727122" duration="9793000" />
-      <workItem from="1665194716009" duration="4275000" />
+      <workItem from="1665194716009" duration="7672000" />
     </task>
     <task id="LOCAL-00001" summary="Course from Alishev&#10;https://www.youtube.com/watch?v=BgE5DoIN6Bs&amp;t=150s&amp;ab_channel=alishev">
       <created>1665136997591</created>
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665164825988</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ex_16, Config with java code">
+      <created>1665253490190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665253490190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +217,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Course from Alishev&#10;https://www.youtube.com/watch?v=BgE5DoIN6Bs&amp;t=150s&amp;ab_channel=alishev" />
     <MESSAGE value="Ex_15, Spring MVC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex_15, Spring MVC" />
+    <MESSAGE value="Ex_16, Config with java code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex_16, Config with java code" />
   </component>
 </project>
