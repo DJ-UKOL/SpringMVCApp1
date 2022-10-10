@@ -9,14 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80e68a58-7f2e-47fd-853c-182a082c7835" name="Changes" comment="Ex_16, Config with java code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/FirstController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/SecondController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
+    <list default="true" id="80e68a58-7f2e-47fd-853c-182a082c7835" name="Changes" comment="Ex_17, Annotation(@Controller)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665136724596</updated>
       <workItem from="1665136727122" duration="9793000" />
-      <workItem from="1665194716009" duration="7672000" />
+      <workItem from="1665194716009" duration="11845000" />
     </task>
     <task id="LOCAL-00001" summary="Course from Alishev&#10;https://www.youtube.com/watch?v=BgE5DoIN6Bs&amp;t=150s&amp;ab_channel=alishev">
       <created>1665136997591</created>
@@ -197,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665253490190</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ex_17, Annotation(@Controller)">
+      <created>1665372032963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665372032963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +221,7 @@
     <MESSAGE value="Course from Alishev&#10;https://www.youtube.com/watch?v=BgE5DoIN6Bs&amp;t=150s&amp;ab_channel=alishev" />
     <MESSAGE value="Ex_15, Spring MVC" />
     <MESSAGE value="Ex_16, Config with java code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex_16, Config with java code" />
+    <MESSAGE value="Ex_17, Annotation(@Controller)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex_17, Annotation(@Controller)" />
   </component>
 </project>
